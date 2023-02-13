@@ -1,3 +1,1 @@
-# Detection of Non-Helmet Motorbike
-Rider and Extraction of License Plate
-Number.
+# Detection of Non-Helmet MotorbikeRider and Extraction of License Plate Number.
